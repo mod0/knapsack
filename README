@@ -1,0 +1,8 @@
+Knapsack data and some portions of solver.py was provided in the course 
+Discrete Optimization by Prof. Pascal Van Hentenryck of University of Melbourne.
+
+My contribution was based on the lecture on the topic in the same course.
+  - DP_Solver() : Dynamic Programming Solver
+  - BB_Solver() : Branch and Bound Solver
+  - BB_Solver_lm() : Branch and Bound Low Memory (my own extended version)
+  
